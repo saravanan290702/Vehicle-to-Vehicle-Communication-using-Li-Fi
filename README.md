@@ -52,5 +52,5 @@ The Arduino Uno is connected with the breadboard which in turn is connected with
 
 https://user-images.githubusercontent.com/84379934/143693815-344deb15-2249-41e6-8d4b-17c4823f104c.mp4
 
-**Done By Anish Samantaray, Saravanan.C
+**Done By Anish Samantaray, Saravanan.C**
 
